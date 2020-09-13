@@ -1,2 +1,2 @@
 # python-syntax
-### Wrote function in python
+### Wrote functions using python
